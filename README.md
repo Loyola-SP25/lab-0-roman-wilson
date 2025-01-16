@@ -14,5 +14,9 @@ This lab will get us started with GitHub.
 2. *piano,run*
 
 
-
+# Classes
+- cs151
+- pl299
+- ma251
+- micro
 
